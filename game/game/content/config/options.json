@@ -1,0 +1,13 @@
+{
+   "options": {
+      "2Player": false,
+      "audioVolume": 0.900000095367432,
+      "difficulty": 3,
+      "fullscreen": true,
+      "gameHud": true,
+      "gameLatency": false,
+      "gameLog": true,
+      "pausing": false,
+      "serialiseLevel": true
+   }
+}

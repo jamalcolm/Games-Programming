@@ -1,0 +1,20 @@
+{
+   "controls": {
+      "player1": {
+         "action": "Right Shift",
+         "down": "Down",
+         "left": "Left",
+         "right": "Right",
+         "up": "Up",
+         "useJoystick": false
+      },
+      "player2": {
+         "action": "Space",
+         "down": "S",
+         "left": "A",
+         "right": "D",
+         "up": "W",
+         "useJoystick": false
+      }
+   }
+}

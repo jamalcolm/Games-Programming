@@ -1,0 +1,84 @@
+{
+	"file" :
+	{
+		"level0" :
+		{
+			"time" : 110,
+			"quota" : 10,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"sssssssssssssssssssssssssssssssssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssdddbdddd1ddddddd1ddddddd1dddddssddddpdddddddddddddddddddddddddssdddddddddddd1ddddddb1dddddddddssddddddddddddddddddddbdddddddddsswwwwwwwwwwwwwwwwwwwwwwwddd1dddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddb1ddddddbdddddddd1ddddddssdddddddddddddd1dddddddddddddddssdd1dddddddddddddddddddddddddddssddddddddddddddbdddddddddddddddssdddddddwwwwwwwwwwwwwwwwwwwwwwdssddddddddddddddddddddddddddddddssddd1ddddddddddbdddddddddddbdddssdddddddddddbdddd1dddddddddb1ddssdddddd1dddd1bddddddddd1ddddddbesddddddddddddbdddddddddddddddddssddddddddddddddddddddddddddddbdssdddddddddddddddddddddddddddb1dsssssssssssssssssssssssssssssssss"
+			
+			},
+			
+		"level1" :
+		{
+			"time" : 120,
+			"quota" : 5,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"sssssssssssssssssssssssssdsssssssddddddwdddddddddddddddddddddddssddddddwddddddbddddddddddddddddssdddddbwdddbdddddddddddbdddddddssdddpd1wdbddddbddddddddwdddddddssddddddddddddddddddddddwdddddddssddddddddddddddddddddddddddddddsswwdwwddddddddddwwdwwwwwdddddddsddddddwdddddddddwdddddddddddddddsdddddwwwww5wwwwwddddddww5wwwwwssddddddddddddddddddddddddddddddssddddddddddddwddddddddddd1dddddssddddddddddddwddd1dddddddddddddssddddddddddddwdddddddddddddddddssdddddddddbddwdddddddddddddddddssddddddddddddwdddddddedddddddddssddddddddddddwdddddddddddddddddssdddddddbbdbdwdddddddddddddddddssdddddddb1dddwdddd1dddddd1dddddssddddddddddddwdddddddddddddddddssdddddbddddddwdddddddddddddddddssddddddddddddwdddddddddddddddddssddddddddddddwdddddddddddddddddssssssssssssssssssssssssssbssssss"
+			},
+			
+		"level2" :
+		{
+			"time" : 60,
+			"quota" : 100,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"se000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss00000000000000000sss2d11111111ss000000000000000002222d11111111ss00000000000000000sss2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000g00p06000s2d11111111ss0000000000dddddd000d2d11111111ss0000000000dddddd000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000s2d11111111ss0000000000000000000d2d11111111ss0000000000000000000ssssssssssss"
+			
+			},
+			
+		"level3" :
+		{
+			"time" : 160,
+			"quota" : 4,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"sssssssssssssssssssssssssssssssssddddddddddAdd1dd0dddddddddddddssdddddddddd0ddddd0dddddddddbdddssdddddddddd0ddddd0ddddbddddddddssdddddddddd0000000ddbdddddbddddssddddddddddddddddddddddddbdddddssdddddddddddddddddddddddddbddbbssddddddddddddddddddddddddddddddssdddddddddddddddddddddddbdddddbssdd00000dddddddddddddddddddddddssdd00000dddddddddddddddd000dbdbssdd00A10dddddddpdddddddd01Addbdssdddddddddddddddddddddbdbbdddddssddddddddddddddddddddddddbddddessddddddddddddddddddddddddddddbdssddddddddddddddddddddddddddddddssdddddddddddddddddddbddbdddbdddssddddddddddddddddddddddddddddbdssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddbdddddssddddddddddddddddddddddddddddddssdddddd000A00001dddddddddddddddsssssssssssssssssssssssssssssssss"
+			},
+		
+		"level4" :
+		{
+			"time" : 180,
+			"quota" : 64,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"sssssssssssssssssssssssssssssssssdddddddddddddddddddddddddddddessddddbddddddddbddddddbddddbddddssddddddddddddddbdddddddddddddddssdddddddddbddddddddddddddddbdddssdddddwwwwwddwwwwwdddddwwwwwdddssdddbw1111wdw1111wddddwd111wdddssddddw1111wdw1111wdddAw1111wdddssddddw1111wdw1111wdd00w1111wdddssddddw1111wdw1111wdddAw1111wbddssddddw1111wdw1111wddd0w1111wdddssdddbw1111wdw1111wdd0Aw1111wdddssddddw1111wdw1111wdd0dw1111wdddssddddw1111wdw1111wdA0Aw1111wdddssddddwwwwwwdwwwwwwddddwwwwwwdddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssdpddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddssddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssss"
+			},
+			
+		"level5" :
+		{
+			"time" : 180,
+			"quota" : 45,
+			"width" : 32,
+			"height" : 24,
+			"amoebaSpeed":0,
+			"amoebaMax":1000,
+			"plasmaSpeed":0,
+			"lavaSpeed":10,
+			"tiles":"sssssssssssssssssssssssssssssssssddddddddddddddddddddddddddw111ssdpddddddddddddddddddddddd6w111ssddddddddddddddddddddddddddw111ssddddddddddddddddddddddddddwwwwssddddddddddddddddddddddddddw111ssdddddddddbdddddddddddd6000w111ssddddddddddddddddddddddddddw111ssddddddddddddddddddddddddddwwwwssssssssssssssssddddddddddddw111ssdddddddddddddsddddddd6ddddw111ssddddddCddddddsddddddddddddw111ssdddddd0ddddddsddddddddddddwwwwssdddddd0ddddddsddddddddddddw111ssdddddd0ddddddsdddd6dbdddddw111ssdddddd0ddddddsddddddddddddw111ssdddddd0ddddddsddddddddddddwwwwssddd0000000Cbdsddddddddddddw111ssdddddd0ddddddsddddd6bdddddw111ssdddddd0ddddddsdddddbddddddw111ssdddddd0ddddddsddddddddddddwwwwssdddddd0ddddddsddddddddddddddddssdddddddddddddsddddddddddddddgesssssssssssssssssssssssssssssssss"
+			}			
+	}
+}
