@@ -1,5 +1,5 @@
 # Games-Programming
-Boulder Dash-inspired game created in C++ using SDL. Created for the Games Programming module in 5 weeks. Features a grid-based tile management system, a menu with customisable controls, and object logic/collision.
+Boulder Dash-inspired game created in C++ using SDL. Features a grid-based tile management system, a menu with customisable controls, and object logic/collision.
 
 Gameplay example:
 
